@@ -1,0 +1,11 @@
+{
+    "files.watcherExclude": {
+        "**/generated/**": true,
+        "**/pub/static/**": true,
+        "**/var/cache/**": true,
+        "**/var/page_cache/**": true,
+        "**/var/view_preprocessed/**": true,
+        "**/vendor/**": true
+    },
+    "debug.allowBreakpointsEverywhere": true
+}
